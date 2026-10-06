@@ -1,0 +1,26 @@
+.pink {
+    color: hotpink;
+}
+
+.green {
+    color: forestgreen;
+}
+
+.dgreen {
+    color: darkgreen;
+}
+
+.hero {
+    background-image: url("/images/wallpaper.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100px;
+    padding: 100px 40px;
+    border-radius: 25px;
+}
+
+.whatsapp-icon {
+    color: #25D366;
+    font-size: 18px;
+}
