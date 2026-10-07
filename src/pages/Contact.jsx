@@ -19,7 +19,7 @@ function Contact() {
                 <div className="col-12 col-md-4 col-lg-4">
                     <h2 className="fw-bold">📷 Instagram </h2>
                     <a
-                        href="https://www.instagram.com/giftbox-bloomea"
+                        href="https://www.instagram.com/giftbox_bloomea"
                         target="_blank"
                         rel="noopener noreferrer"
                         className=" btn btn-light text-dark text-decoration-none "
